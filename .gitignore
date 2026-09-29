@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+payload/
+artifacts/
+nvidia-runtime/
+*.exe
+*.dll
+*.gguf
+*.zip
+*.sqlite3*
+settings*.json
+self-test.txt
